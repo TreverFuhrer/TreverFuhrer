@@ -9,5 +9,5 @@
 - logs are structured, not emotional
 - one day: my own kernel; today: fewer syscalls per request
 
-**proof of life**
+**proof of life**  
 tests: ✅ · ci: ✅ · releases: semver-ish · issues: human-friendly
