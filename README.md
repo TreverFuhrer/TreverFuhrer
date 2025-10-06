@@ -1,6 +1,6 @@
 # what i build
 - developer toys that remove boring steps
-- minecraft mods that behave… until they don’t
+- backends that stay quiet under load
 - small ml that predicts the obvious faster than i can
 
 # how i work
